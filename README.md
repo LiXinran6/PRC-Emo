@@ -11,17 +11,16 @@ Please consider citing their work if you use similar ideas:
 Xue, Jieying et al. “BiosERC: Integrating Biography Speakers Supported by LLMs for ERC Tasks.” International Conference on Artificial Neural Networks (2024).
 
 
+```bibtex
 @InProceedings{10.1007/978-3-031-72344-5_19,
     author    = "Xue, Jieying and Nguyen, Minh-Phuong and Matheny, Blake and Nguyen, Le-Minh",
-    editor    = "Wand, Michael and Malinovsk{\'a}, Krist{\'i}na and Schmidhuber, J{\"u}rgen and Tetko, Igor V.",
     title     = "BiosERC: Integrating Biography Speakers Supported by LLMs for ERC Tasks",
     booktitle = "Artificial Neural Networks and Machine Learning -- ICANN 2024",
     year      = "2024",
     publisher = "Springer Nature Switzerland",
     address   = "Cham",
     pages     = "277--292",
-    isbn      = "978-3-031-72344-5",
-    abstract  = "In the Emotion Recognition in Conversation task, recent investigations have utilized attention mechanisms exploring relationships among utterances from intra- and inter-speakers for modeling emotional interaction between them. However, attributes such as speaker personality traits remain unexplored and present challenges in terms of their applicability to other tasks or compatibility with diverse model architectures. Therefore, this work introduces a novel framework named BiosERC, which investigates speaker characteristics in a conversation. By employing Large Language Models (LLMs), we extract the ``biographical information'' of the speaker within a conversation as supplementary knowledge injected into the model to classify emotional labels for each utterance. Our proposed method achieved state-of-the-art (SOTA) results on three famous benchmark datasets: IEMOCAP, MELD, and EmoryNLP, demonstrating the effectiveness and generalization of our model and showcasing its potential for adaptation to various conversation analysis tasks."
+    isbn      = "978-3-031-72344-5"
 }
 
 
