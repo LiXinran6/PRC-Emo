@@ -29,7 +29,7 @@ Xue, Jieying et al. “BiosERC: Integrating Biography Speakers Supported by LLMs
     isbn      = "978-3-031-72344-5"
 }
 ```
-This work is also inspired by the paper “Forecasting Implicit Emotions Elicited in Conversations” from the Miyao Laboratory at the University of Tokyo, which explores implicit emotion forecasting in dialogues.
+The introduction of implicit emotion interpretation in this work is inspired by the paper “Forecasting Implicit Emotions Elicited in Conversations” from the Miyao Laboratory at the University of Tokyo, which explores implicit emotion forecasting in dialogues.
 Please consider citing their work if you use related ideas:
 
 ```bibtex
