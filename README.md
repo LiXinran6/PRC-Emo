@@ -32,7 +32,25 @@ Xue, Jieying et al. “BiosERC: Integrating Biography Speakers Supported by LLMs
 This work is also inspired by the paper “Forecasting Implicit Emotions Elicited in Conversations” from the Miyao Laboratory at the University of Tokyo, which explores implicit emotion forecasting in dialogues.
 If you would like to cite their work:
 
-Koga, Yurie, Shunsuke Kando, and Yusuke Miyao. “Forecasting Implicit Emotions Elicited in Conversations.” Proceedings of the 17th International Natural Language Generation Conference, Tokyo, Japan, September 2024, pp. 145–152. Association for Computational Linguistics. https://aclanthology.org/2024.inlg-main.12/
+```bibtex
+@inproceedings{koga-etal-2024-forecasting-implicit,
+    title = "Forecasting Implicit Emotions Elicited in Conversations",
+    author = "Koga, Yurie  and
+      Kando, Shunsuke  and
+      Miyao, Yusuke",
+    editor = "Mahamood, Saad  and
+      Minh, Nguyen Le  and
+      Ippolito, Daphne",
+    booktitle = "Proceedings of the 17th International Natural Language Generation Conference",
+    month = sep,
+    year = "2024",
+    address = "Tokyo, Japan",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.inlg-main.12/",
+    doi = "10.18653/v1/2024.inlg-main.12",
+    pages = "145--152",
+}
+```
 
 ##  Data  
 - IEMOCAP
