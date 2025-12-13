@@ -13,7 +13,7 @@ Emotion Recognition in Conversation (ERC) is a crucial task for understanding hu
 We release the **first dedicated demonstration retrieval repository for ERC**, which is a core component of the PRC-Emo framework.
 
 - **PRC-Emo Demonstration Retrieval Repository**  
-  https://github.com/LiXinran1/prc-emo-demonstration-retrieval-repository
+  [https://github.com/LiXinran1/prc-emo-demonstration-retrieval-repository](https://huggingface.co/datasets/LiXinran1/prc-emo-demonstration-retrieval-repository)
 
 This repository contains:
 - Demonstration samples constructed from widely used ERC datasets (e.g., IEMOCAP, MELD)
