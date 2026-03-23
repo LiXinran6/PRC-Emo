@@ -131,5 +131,20 @@ Init python environment
     > **Note**: Please check this scripts to check the setting and choose which data you want to run. For IEMOCAP, MODEL_ID="Qwen2.5-7B-Instruct"; For MELD, MODEL_ID="Qwen3-8B"
 
 ## Citation
-If you find this work helpful, please consider citing PRC-Emo once the official BibTeX entry becomes available after AAAI 2026 publication.
+If you find this work helpful, please consider citing our paper:
+```
+@article{Li_Liu_Qiao_Xu_2026, 
+  title={Do LLMs Feel? Teaching Emotion Recognition with Prompts, Retrieval, and Curriculum Learning}, 
+  volume={40}, 
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/40446}, 
+  DOI={10.1609/aaai.v40i38.40446}, 
+  number={38}, 
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  author={Li, Xinran and Liu, Yu and Qiao, Jiaqi and Xu, Xiujuan}, 
+  year={2026}, 
+  month={Mar.}, 
+  pages={31778-31786} 
+}
+```
+
     
